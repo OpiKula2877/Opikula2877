@@ -7,4 +7,5 @@ Hi I am OpiKula
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OpiKula2877&theme=dark&layout=compact&hide=perl" /> 
 </div> 
 
-## Contact - Email: pelcsamuel464@gmail.com
+## Contact 
+- Email: pelcsamuel464@gmail.com
