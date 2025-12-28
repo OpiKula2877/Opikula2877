@@ -1,10 +1,8 @@
-Hi I am OpiKula 
+Hi, my name is Samuel and I am learning Python, HTML, CSS, JS and sometimes Batch
 
 ## Stats 
 <div> 
-  <img src="https://github-readme-stats.vercel.app/api?username=OpiKula2877&show_icons=true&theme=dark" />
-  <br> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OpiKula2877&theme=dark&layout=compact&hide=perl" /> 
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)
 </div> 
 
 ## Contact 
