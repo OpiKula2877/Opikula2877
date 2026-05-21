@@ -8,8 +8,10 @@
 <br>
 <br>
 
-### 📊 Most used languages & My fav. repo
-
-> | **Most used languages** | **My fav. repo** |
-> | :---: | :---: |
-> | <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=OpiKula2877&layout=compact&theme=vision-friendly-dark&hide_border=true&hide_title=true&card_width=278&bg_color=212D3B" alt="Top Languages" /> | <a href="https://github.com/OpiKula2877/prg"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=OpiKula2877&repo=prg&theme=react&bg_color=212D3B&title_color=F0F0F0&hide_border=true&icon_color=F8D866&show_icons=false" alt="prg repo"></a> |
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=OpiKula2877&layout=compact&theme=vision-friendly-dark&hide_border=false&border_color=384d66&title_color=F0F0F0&bg_color=212D3B&card_width=290" alt="Top Languages" />
+  &nbsp;&nbsp;
+  <a href="https://github.com/OpiKula2877/prg">
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=OpiKula2877&repo=prg&theme=react&bg_color=212D3B&title_color=F0F0F0&hide_border=false&border_color=384d66&icon_color=F8D866&show_icons=false&card_width=290" alt="prg repo" />
+  </a>
+</p>
