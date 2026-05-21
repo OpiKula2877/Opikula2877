@@ -1,4 +1,4 @@
 
 | Most used languages | My fav. repo |
 | :--- | :--- |
-| <p align="center"><img src="https://github-readme-stats.shion.dev/api/top-langs/?username=OpiKula2877&layout=compact&theme=vision-friendly-dark&hide_border=true&hide_title=true" alt="Top Languages" /></p> | <a href="https://github.com/DenverCoder1/readme-typing-svg"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=OpiKula2877&repo=prg&theme=react&bg_color=0D1117&title_color=F0F0F0&hide_border=false&icon_color=F8D866&show_icons=false" alt="prg repo"></a> |
+| <p align="center"><img src="https://github-readme-stats.shion.dev/api/top-langs/?username=OpiKula2877&layout=compact&theme=vision-friendly-dark&hide_border=true&hide_title=true" alt="Top Languages" /></p> | <a href="https://github.com/DenverCoder1/readme-typing-svg"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=OpiKula2877&repo=prg&theme=react&bg_color=000000&title_color=F0F0F0&hide_border=true&icon_color=F8D866&show_icons=false" alt="prg repo"></a> |
