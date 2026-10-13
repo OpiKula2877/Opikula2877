@@ -40,9 +40,10 @@ I'm Samuel Pelc, and I study IT in Varnsdorf. It's exactly where I want to be, e
 ## GitHub stats
 
 ![graph-wave](https://stats.pphat.top/graph?username=OpiKula2877&animate=wave&theme=aurora)
-![badge-visitors](https://stats.pphat.top/badges?username=OpiKula2877&name=visitors,total-stars,repositories,followers&theme=aurora)
-<div style="text-align: center;">Tento text je uprostřed.</div>
 
+<p align="center">
+  ![badge-visitors](https://stats.pphat.top/badges?username=OpiKula2877&name=visitors,total-stars,repositories,followers&theme=aurora)
+</p>
 ---
 
 Check out my friends' sites too: [Spagy](https://github.com/Spagy69) and [Kralyk](https://kralyk.dev/). See what I've built at [opikula.dev](https://opikula.dev/projects.html).
