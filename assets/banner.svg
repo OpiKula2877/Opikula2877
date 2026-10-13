@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" role="img" aria-labelledby="banner-title banner-desc">
+  <title id="banner-title">Samuel Pelc</title>
+  <desc id="banner-desc">Hi, I'm Samuel. IT student from Varnsdorf, learning C# and web.</desc>
+  <style>
+    .bg { fill: #F2F3F8; }
+    .ink { fill: #0A0D26; }
+    .muted { fill: #4A4F6B; }
+    .ring { fill: none; stroke: #2F3DF5; stroke-width: 30; }
+    .dot { fill: #2F3DF5; }
+    .pill { fill: #0A0D26; }
+    .pill-text { fill: #F2F3F8; }
+    text { font-family: 'Bricolage Grotesque', 'Segoe UI', Helvetica, Arial, sans-serif; }
+    @media (prefers-color-scheme: dark) {
+      .bg { fill: #0A0D26; }
+      .ink { fill: #F2F3F8; }
+      .muted { fill: #B9BDD6; }
+      .ring { stroke: #7C86FF; }
+      .dot { fill: #7C86FF; }
+      .pill { fill: #F2F3F8; }
+      .pill-text { fill: #0A0D26; }
+    }
+  </style>
+
+  <rect class="bg" width="1200" height="320" rx="28"/>
+
+  <circle class="ring" cx="940" cy="160" r="110"/>
+  <circle class="dot" cx="1046" cy="54" r="10"/>
+
+  <text class="ink" x="72" y="150" font-size="84" font-weight="800" letter-spacing="-2">Hi, I'm Samuel.</text>
+  <text class="muted" x="76" y="200" font-size="28" font-weight="500">IT student from Varnsdorf, learning C# and web.</text>
+
+  <rect class="pill" x="76" y="236" width="200" height="48" rx="24"/>
+  <text class="pill-text" x="176" y="267" font-size="20" font-weight="700" text-anchor="middle">opikula.dev</text>
+</svg>
