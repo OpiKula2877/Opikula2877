@@ -1,0 +1,29 @@
+name: Metrics
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # Optional: a personal access token named METRICS_TOKEN gives more data.
+          # Without it, the built-in token is used.
+          token: ${{ secrets.METRICS_TOKEN || github.token }}
+          user: OpiKula2877
+          filename: github-metrics.svg
+          config_timezone: Europe/Prague
+          plugin_isocalendar: "yes"
+          plugin_isocalendar_duration: full-year
+          plugin_languages: "yes"
+          plugin_languages_limit: 8
+          plugin_habits: "yes"
+          plugin_achievements: "yes"

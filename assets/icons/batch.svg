@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" role="img" aria-label="Batch">
+  <style>
+    .g { fill: none; stroke: #2F3DF5; stroke-width: 3; stroke-linecap: round; stroke-linejoin: round; }
+    @media (prefers-color-scheme: dark) { .g { stroke: #7C86FF; } }
+  </style>
+  <rect class="g" x="4" y="8" width="40" height="32" rx="5"/>
+  <path class="g" d="M4 16h40"/>
+  <path class="g" d="M13 24l6 5-6 5"/>
+  <path class="g" d="M24 34h10"/>
+</svg>

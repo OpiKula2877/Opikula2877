@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" role="img" aria-label="SQL">
+  <style>
+    .g { fill: none; stroke: #2F3DF5; stroke-width: 3; stroke-linecap: round; stroke-linejoin: round; }
+    @media (prefers-color-scheme: dark) { .g { stroke: #7C86FF; } }
+  </style>
+  <ellipse class="g" cx="24" cy="12" rx="15" ry="6"/>
+  <path class="g" d="M9 12v24c0 3.3 6.7 6 15 6s15-2.7 15-6V12"/>
+  <path class="g" d="M9 24c0 3.3 6.7 6 15 6s15-2.7 15-6"/>
+</svg>
