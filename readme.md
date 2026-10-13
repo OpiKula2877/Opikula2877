@@ -39,9 +39,7 @@ I'm Samuel Pelc, and I study IT in Varnsdorf. It's exactly where I want to be, e
 
 ## GitHub stats
 
-<div align="center">
-  <img src="github-metrics.svg" alt="GitHub stats: activity, languages and commit calendar" />
-</div>
+![graph-wave](https://stats.pphat.top/graph?username=OpiKula2877&animate=wave&theme=aurora)
 
 ---
 
