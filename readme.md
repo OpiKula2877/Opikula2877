@@ -31,8 +31,8 @@ I'm Samuel Pelc, and I study IT in Varnsdorf. It's exactly where I want to be, e
 | <img src="https://skillicons.dev/icons?i=html" width="40" alt="HTML" /> | **HTML** | The easiest of the web basics for me so far. |
 | <img src="https://skillicons.dev/icons?i=css" width="40" alt="CSS" /> | **CSS** | Pretty fun, especially when one change makes a whole site look different. |
 | <img src="https://skillicons.dev/icons?i=js" width="40" alt="JavaScript" /> | **JavaScript** | Frustrating for now, but I'll get there. |
-| <img src="https://skillicons.dev/icons?i=dynamodb" width="40" alt="SQL" /> | **SQL** | Just the basics so far, and I hope to learn more. |
-| <img src="assets/icons/batch.svg" width="40" alt="Batch" /> | **Batch** | Not a real programming language, but I love making programs and games with it. |
+| <img src="https://skillicons.dev/icons?i=mysql" width="40" alt="SQL" /> | **SQL** | Just the basics so far, and I hope to learn more. |
+| <img src="https://skillicons.dev/icons?i=windows" width="40" alt="Batch" /> | **Batch** | Not a real programming language, but I love making programs and games with it. |
 | <img src="assets/icons/cybersecurity.svg" width="40" alt="Cybersecurity" /> | **Cybersecurity** | Still exploring. All the malware I've had makes me doubt it's for me. |
 
 ---
