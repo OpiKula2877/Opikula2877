@@ -40,7 +40,7 @@ I'm Samuel Pelc, and I study IT in Varnsdorf. It's exactly where I want to be, e
 ## GitHub stats
 
 ![graph-wave](https://stats.pphat.top/graph?username=OpiKula2877&animate=wave&theme=aurora)
-![badge-visitors](https://stats.pphat.top/badges?username=OpiKula2877&name=visitors&theme=aurora)
+![badge-visitors](https://stats.pphat.top/badges?username=OpiKula2877&name=visitors,total-stars,repositories,followers&theme=aurora)
 
 ---
 
