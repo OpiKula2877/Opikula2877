@@ -47,6 +47,6 @@ I'm Samuel Pelc, and I study IT in Varnsdorf. It's exactly where I want to be, e
   <img src="https://stats.pphat.top/badges?username=OpiKula2877&name=visitors,total-stars,repositories,followers&theme=aurora" alt="badge-visitors" />
 </p>
 
----
+<br>
 
 Check out my friends' sites too: [Spagy](https://github.com/Spagy69) and [Kralyk](https://kralyk.dev/). See what I've built at [opikula.dev](https://opikula.dev/projects.html).
