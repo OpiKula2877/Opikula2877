@@ -1,7 +1,7 @@
 <div align="center">
 
 <img src="assets/banner.svg" alt="Hi, I'm Samuel. IT student from Varnsdorf, learning C# and web." width="100%" />
-
+ 
 <br />
 
 <a href="https://opikula.dev"><img alt="Website" src="https://img.shields.io/badge/Website-opikula.dev-2F3DF5?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
